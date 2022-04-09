@@ -23,11 +23,11 @@ I'm a Full Stak Developer and Content Creator on [Youtube](https://youtube.com/#
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Codelo Youtube Channel exists!
 
-### What is CoderOne?
+### What is Codelo?
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+Codelo is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 ### Github Stats
 
