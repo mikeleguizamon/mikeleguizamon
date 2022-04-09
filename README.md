@@ -8,10 +8,10 @@ I'm a Full Stak Developer and Content Creator on [Youtube](https://youtube.com/#
 
 ## Examples of Work
 
-### Bizness
-* 🔗📎📌: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-* 📭: hello@mikeleguizamon.com
+### Business
+* 📌: [My Resume/CV](https://github.com/mikeleguizamon/mikeleguizamon/blob/master/resumes/resume-v1.0.pdf)
+* 📧: hello@mikeleguizamon.com
 
 ### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mikeleguizamon.mikeleguizamon)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mikeleguizamon)
