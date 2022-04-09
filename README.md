@@ -31,6 +31,6 @@ Codelo is a youtube channel for learning Web/Mobile development, coding and desi
 
 ### Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mikeleguizamon&show_icons=true&theme=codeSTACKr" alt="mikeleguizamon" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mikeleguizamon&count_private=true&theme=codeSTACKr&hide=contribs,prs" alt="mikeleguizamon" />
 
 </details>
