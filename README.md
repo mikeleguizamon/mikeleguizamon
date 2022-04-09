@@ -8,10 +8,29 @@ I'm a Full Stak Developer and Content Creator on [Youtube](https://youtube.com/#
 
 ## Examples of Work
 
-### Business
+## Business
 * 📌: [My Resume/CV](https://github.com/mikeleguizamon/mikeleguizamon/blob/master/resumes/resume-v1.0.pdf)
 * 📧: hello@mikeleguizamon.com
 
 ### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mikeleguizamon)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+
+### What is CoderOne?
+
+CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+
+### Github Stats
+
+![Mikeleguizamon's github stats](https://github-readme-stats.vercel.app/api?username=mikeleguizamon&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
