@@ -23,7 +23,7 @@ I'm a Full Stak Developer and Content Creator on [Youtube](https://youtube.com/#
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><br/>
 
 ### Profile Visits 
 
