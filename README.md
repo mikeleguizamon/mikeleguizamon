@@ -34,7 +34,7 @@ Codelo is a youtube channel for learning Web/Mobile development, coding and desi
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mikeleguizamon&count_private=true&theme=codeSTACKr&hide=contribs,prs" alt="mikeleguizamon" />
 
 ### Social Networks
-<p align="center"> <a href="https://www.instagram.com/abhishknads/">
+<a align="center" href="https://www.instagram.com/abhishknads/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
@@ -45,6 +45,6 @@ Codelo is a youtube channel for learning Web/Mobile development, coding and desi
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> />
+</a>
 
 </details>
