@@ -38,3 +38,12 @@ As a software developer, I'm ready to take on new challenges that contribute to 
 I'm passionate about discussing technology, business development, marketing, employment, and roadmaps. On my YouTube channel, I'll be posting content related to these topics. ❤️ I just aim to contribute something to the community. [Subscribe!] 🔔
 
 [subscribe!]: https://youtube.com/@mikeleguizamon?sub_confirmation=1
+
+<!-- Repo info cards section -->
+<!-- Github readme stats by Anurag Hazra - https://github.com/anuraghazra/github-readme-stats -->
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+[![All Repositories](https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-011627?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/mikeleguizamon?tab=repositories&sort=stargazers "All Repositories")
+
+</details>
