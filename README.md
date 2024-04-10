@@ -96,4 +96,3 @@ I'm passionate about discussing technology, business development, marketing, emp
 
 ![Mike's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mikeleguizamon&layout=compact&hide_border=true&sideNums=F8D866&currStreakLabel=F8D866&sideLabels=C792EA&background=011627&&dates=EBEBEB&currStreakNum=94E2D5&theme=nightowl "Mike's Streak Stats")
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeleguizamon&layout=compact&hide_border=true&sideNums=F8D866&currStreakLabel=F8D866&sideLabels=C792EA&background=011627&&dates=EBEBEB&currStreakNum=94E2D5&theme=nightowl" style="padding-right:15px;"/>](https://github.com/mikeleguizamon "Mike's Streak Stats")
