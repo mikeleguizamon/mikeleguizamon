@@ -89,10 +89,21 @@ I'm passionate about discussing technology, business development, marketing, emp
 <!-- GitHub stats section -->
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details open> 
+<details> 
   <summary><h2>📊 GitHub Stats</h2></summary>
 
 ### 🔥 Streak Stats
 
 ![Mike's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mikeleguizamon&layout=compact&hide_border=true&sideNums=F8D866&currStreakLabel=F8D866&sideLabels=C792EA&background=011627&&dates=EBEBEB&currStreakNum=94E2D5&theme=nightowl "Mike's Streak Stats")
 
+### 💻 GitHub Profile Stats
+
+[<img src="https://github-readme-stats.vercel.app/api?username=mikeleguizamon&show_icons=true&count_private=true&&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=f9d862&theme=omni" height="192px" style="padding-right:7px;"/>](https://github.com/anuraghazra/github-readme-stats "Mike's Github Stats")
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeleguizamon&layout=compact&langs_count=8&hide_border=true&bg_color=011627&title_color=c792ea&theme=omni" height="192px"/>](https://github.com/anuraghazra/github-readme-stats "Mike's Top Languages")
+
+**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+![Mike's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikeleguizamon&bg_color=011627&color=f9d862&line=bc6bff&point=f9fafa&area=true&hide_border=true "Mike's Activity Graph")
+
+</details>
