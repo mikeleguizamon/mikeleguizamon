@@ -72,3 +72,16 @@ I'm passionate about discussing technology, business development, marketing, emp
 [![Python](https://custom-icon-badges.demolab.com/badge/Python-1e415e.svg?logo=python-original)](#)&nbsp;
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-005ba1.svg?logo=database&logoColor=white)](#)&nbsp;
 [![Bash](https://img.shields.io/badge/Bash-282c34.svg?logo=gnu-bash&logoColor=white)](#)&nbsp;
+
+### 💻 Software and Tools
+
+![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-efefe7.svg?logo=git&logoColor=f34f29)&nbsp;
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-733fc5.svg?logo=github&logoColor=white)&nbsp;
+![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=devdotto&logoColor=white)&nbsp;
+![Google Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)&nbsp;
+![OBS Studio](https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white)&nbsp;
+![Stack Overflow](https://custom-icon-badges.demolab.com/badge/Stack%20Overflow-0e0f10.svg?logo=stackoverflow-original)&nbsp;
+![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-004984.svg?logo=vscode-original)&nbsp;
+
+</details>
