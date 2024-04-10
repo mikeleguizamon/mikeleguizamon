@@ -31,3 +31,10 @@
 
 </section>
 <br/>
+
+<!-- About me section -->
+As a software developer, I'm ready to take on new challenges that contribute to my personal and professional growth. I'm constantly learning new technologies, tools, and soft skills to carry out better projects. Open to job opportunities.
+
+I'm passionate about discussing technology, business development, marketing, employment, and roadmaps. On my YouTube channel, I'll be posting content related to these topics. ❤️ I just aim to contribute something to the community. [Subscribe!] 🔔
+
+[subscribe!]: https://youtube.com/@mikeleguizamon?sub_confirmation=1
