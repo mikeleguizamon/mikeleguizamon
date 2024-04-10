@@ -55,3 +55,20 @@ I'm passionate about discussing technology, business development, marketing, emp
 [![All Contributions](https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-011627?style=for-the-badge&logoColor=white&logo=fork)](https://github.com/MikeLeguizamon/My-Contributions/blob/main/README.md "All Contributions")
 
 </details>
+
+<!-- Knowledge section -->
+<!-- Icon section are from https://github.com/badges/shields -->
+<details> 
+  <summary><h2>✡️ Main Tech Knowledge</h2></summary>
+
+### 👨‍💻 Programming and Markup Languages
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3AMikeLeguizamon+language%3Ajavascript "JavaScript")&nbsp;
+[![HTML](https://custom-icon-badges.demolab.com/badge/HTML-f16529.svg?logo=html-original)]()&nbsp;
+[![CSS](https://custom-icon-badges.demolab.com/badge/CSS-2965f1.svg?logo=css-original)](#)&nbsp;
+[![Nodejs](https://img.shields.io/badge/Node.js-026e00.svg?logo=Node.js&logoColor=white)](#)&nbsp;
+[![PHP](https://img.shields.io/badge/PHP-4f5b93.svg?logo=PHP&logoColor=white)](#)&nbsp;
+[![Markdown](https://img.shields.io/badge/Markdown-black.svg?logo=markdown&logoColor=white)](#)&nbsp;
+[![Python](https://custom-icon-badges.demolab.com/badge/Python-1e415e.svg?logo=python-original)](#)&nbsp;
+[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-005ba1.svg?logo=database&logoColor=white)](#)&nbsp;
+[![Bash](https://img.shields.io/badge/Bash-282c34.svg?logo=gnu-bash&logoColor=white)](#)&nbsp;
