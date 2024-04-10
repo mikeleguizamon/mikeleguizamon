@@ -47,3 +47,11 @@ I'm passionate about discussing technology, business development, marketing, emp
 [![All Repositories](https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-011627?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/mikeleguizamon?tab=repositories&sort=stargazers "All Repositories")
 
 </details>
+
+<!-- Github readme stats by Anurag Hazra - https://github.com/anuraghazra/github-readme-stats -->
+<details open> 
+  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+
+[![All Contributions](https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-011627?style=for-the-badge&logoColor=white&logo=fork)](https://github.com/MikeLeguizamon/My-Contributions/blob/main/README.md "All Contributions")
+
+</details>
