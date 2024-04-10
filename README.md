@@ -27,7 +27,7 @@
 [![YouTube Views](https://custom-icon-badges.demolab.com/youtube/channel/views/UCXSzPUecQouEmd7MVLIwhSg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@MikeLeguizamon "YouTube views")
 [![Github Stars](https://custom-icon-badges.demolab.com/github/stars/MikeLeguizamon?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/mikeleguizamon?tab=repositories&sort=stargazers "Total stars on GitHub")
 [![Github Followers](https://custom-icon-badges.demolab.com/github/followers/MikeLeguizamon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/mikeleguizamon?tab=followers "Follow me on Github")
-[![Visitor Badge](https://custom-icon-badges.demolab.com/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fmikeleguizamon%2Fmikeleguizamon.json&style=for-the-badge&logo=gtihub&logoColor=white&label=VISITORS&labelColor=640464&color=7C007C)](https://github.com/mikeleguizamon "GitHub profile views")
+[![Visitor Badge](https://custom-icon-badges.demolab.com/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fmikeleguizamon%2Fmikeleguizamon.json&style=for-the-badge&logo=github&logoColor=white&label=VISITORS&labelColor=640464&color=7C007C)](https://github.com/mikeleguizamon "GitHub profile views")
 
 </section>
 <br/>
